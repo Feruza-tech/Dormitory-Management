@@ -1,0 +1,1 @@
+A simple C/C++ console-based dormitory management system that allows storing, updating, and managing student dorm information. Built as a first-year project focusing on basic data structures and file handling.
